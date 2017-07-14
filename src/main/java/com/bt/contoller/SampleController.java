@@ -21,7 +21,7 @@ public class SampleController {
 System.out.println(":::MEthod calling:::");
         JSONObject js = new JSONObject();
         js.put("Name", "R Ashok reddy ");
-        js.put("Technology", "DevOps ");
+        js.put("Technology", "dev ");
 
         return js.toString();
 
